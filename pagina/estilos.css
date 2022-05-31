@@ -1,0 +1,66 @@
+body, html {
+    height: 100%;
+
+    background-image: url("https://img.autosblogmexico.com/2019/11/21/hVoAV2LR/aventon-3-9c9e.jpg");
+    background-repeat:no-repeat;
+    background-position: center center;
+  background-size: auto;
+    }
+
+body {
+    padding: auto;
+
+
+
+    
+    height: 100vh;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    background-color: aqua;
+    
+}
+
+#log{
+    background-color: brown;
+    height: 50%;
+}
+
+.form-box{
+    width: 400px;
+    height: 500px;
+}
+
+.form-title{
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 300%;
+}
+
+.form-subtitle{
+    color: rgba(5, 2, 10, 0.966);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 300%;
+}
+
+.form-box button [type="link"]{
+    border: 0;
+    background: none;
+    display: block;
+    margin: 50px auto;
+}
+
+.contenedor{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+}
+
+#container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: auto;
+}
